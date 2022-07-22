@@ -9,5 +9,7 @@ Chapter05 Exact 1st Order
 Chapter06 Linear 1st Order  
 Chapter07 Applications of 1st Order ODEs    
 Chapter08 Linear ODEs: Theory of Solutions    
-Chapter09 2nd Order Linear Homogeneous w Constant Coeff   
+Chapter09 2nd Order Linear Homogeneous w Constant Coeff  
+Chapter10 nth Order Linear Homogeneous w Constant Coeff  
+
 
