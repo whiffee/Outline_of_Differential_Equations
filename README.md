@@ -7,3 +7,7 @@ Chapter03 Classifications of 1st-Order
 Chapter04 Separable 1st-Order  
 Chapter05 Exact 1st-Order  
 Chapter06 Linear-1st-Order  
+Chapter07 Applications of 1st Order ODEs    
+Chapter08 Linear ODE: Theory of Solutions    
+Chapter09 2nd Order Linear Homogeneous w Constnat Coeff  
+
