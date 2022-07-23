@@ -11,5 +11,7 @@ Chapter07 Applications of 1st Order ODEs
 Chapter08 Linear ODEs: Theory of Solutions    
 Chapter09 2nd Order Linear Homogeneous w Constant Coeff  
 Chapter10 nth Order Linear Homogeneous w Constant Coeff  
+Chapter11 Method of Undetermined Coefficients  
+
 
 
