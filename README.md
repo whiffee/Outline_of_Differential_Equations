@@ -14,7 +14,8 @@ Chapter08 Linear ODEs: Theory of Solutions
 Chapter09 2nd Order Linear Homogeneous w Constant Coeff  
 Chapter10 nth Order Linear Homogeneous w Constant Coeff  
 Chapter11 Method of Undetermined Coefficients  
-Chapter12 Method of Variation of Parameters  
+Chapter12 Method of Variation of Parameters 
+Chapter13 Initial Value Problems for Linear ODEs  
 
 
 
