@@ -18,6 +18,9 @@ Chapter12 Method of Variation of Parameters
 Chapter13 Initial Value Problems for Linear ODEs  
 Chapter14 Applications of 2nd Order Linear ODEs  
 Chapter15 Matrices  
+Chapter16 e^At  
+Chapter17 Reduction of Linear Differential Equations  
+
 
 
 
