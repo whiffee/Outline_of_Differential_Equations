@@ -20,6 +20,8 @@ Chapter14 Applications of 2nd Order Linear ODEs
 Chapter15 Matrices  
 Chapter16 e^At  
 Chapter17 Reduction of Linear Differential Equations  
+Chapter18 Graphical and Numerical Methods for 1st Order  
+
 
 
 
