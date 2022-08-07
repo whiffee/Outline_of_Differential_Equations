@@ -24,6 +24,9 @@ Chapter18 Graphical and Numerical Methods for 1st Order
 Chapter19 Further Numerical Methods for Solving 1st Order  
 Chapter20 Numerical Methods for Solving 2nd Order via Systems  
 Chapter21 The Laplace Transform  
+Chapter22 Inverse Laplace Transform  
+Chapter23 Convolution and the Unit Step Function  
+
 
 
 
