@@ -26,7 +26,8 @@ Chapter20 Numerical Methods for Solving 2nd Order via Systems
 Chapter21 The Laplace Transform  
 Chapter22 Inverse Laplace Transform  
 Chapter23 Convolution and the Unit Step Function  
-Chapter24 Solns of Linear ODEs by Laplace Transforms  
+Chapter24 Solutions of Linear ODEs by Laplace Transforms  
+
 
 
 
