@@ -30,7 +30,9 @@ Chapter24 Solutions of Linear ODEs by Laplace Transforms
 Chapter25 Solutions of Linear Systems by Laplace Transforms  
 Chapter26 Solutions of Linear ODEs by Matrix Methods  
 Chapter27 Power Series Solns of Linear Equations with Variable Coefficients  
-Chapter28 Series Solutions Near a Regular Singular Point    
+Chapter28 Series Solutions Near a Regular Singular Point  
+Chapter29 Some Classical Differential Equations  
+
 
 
 
