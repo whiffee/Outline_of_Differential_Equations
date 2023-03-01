@@ -33,22 +33,22 @@ Chapter26 Solutions of Linear ODEs by Matrix Methods
 Chapter27 Power Series Solns of Linear Equations with Variable Coefficients  
 Chapter28 Series Solutions Near a Regular Singular Point  
 Chapter29 Some Classical Differential Equations  
-Chapter31-1 Boundary Element Method
-Chapter31-2 Differential Quadrature
-Chapter31-3 Domain Decomposition
-Chapter31-4 Elliptic Case--Finite Differences
-Chapter31-5 Elliptic Case--Monte Carlo Method
-Chapter31-6 Elliptic Case--Relaxation
-Chapter31-7 Hyperbolic Case--Finite Differences
-Chapter31-8 Hyperbolic Case--Method of Characteristics
-Chapter31-9 Lattice Gas Dynamics
-Chapter31-10 Method of Lines
-Chapter31-11 Parabolic Case--Explicit Method
-Chapter31-12 Parabolic Case--Implicit Method
-Chapter31-13 Parabolic Case--Monte Carlo Method
-Chapter31-14 Pseudo-Spectral Method
-Chapter31-15 Reduced Finite Element Method
-Chapter31-16 PDE Solvers Using Neural Network Methods
+Chapter31-1 Boundary Element Method  
+Chapter31-2 Differential Quadrature  
+Chapter31-3 Domain Decomposition  
+Chapter31-4 Elliptic Case--Finite Differences  
+Chapter31-5 Elliptic Case--Monte Carlo Method  
+Chapter31-6 Elliptic Case--Relaxation  
+Chapter31-7 Hyperbolic Case--Finite Differences  
+Chapter31-8 Hyperbolic Case--Method of Characteristics  
+Chapter31-9 Lattice Gas Dynamics    
+Chapter31-10 Method of Lines  
+Chapter31-11 Parabolic Case--Explicit Method  
+Chapter31-12 Parabolic Case--Implicit Method  
+Chapter31-13 Parabolic Case--Monte Carlo Method  
+Chapter31-14 Pseudo-Spectral Method  
+Chapter31-15 Reduced Finite Element Method  
+Chapter31-16 PDE Solvers Using Neural Network Methods  
 
 
 
