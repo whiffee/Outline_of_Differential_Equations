@@ -52,6 +52,8 @@ Chapter31-14 Pseudo-Spectral Method
 Chapter31-15 Reduced Finite Element Method  
 Chapter31-16 PDE Solvers Using Neural Network Methods  
 
+The Custom folder, in Windows, can be put at a position like C:\Users\gary\.jupyter. The Monaco font can be loaded into the system font list if desired. It makes a good code font. The nice thing about Monaco is that it has an intrinsically large face size, which make the code font about the same size as the markdown font, instead of being very small-looking. Monaco can also stand beefing up a bit in terms of weight.
+
 
 
 
