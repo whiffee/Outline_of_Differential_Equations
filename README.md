@@ -2,7 +2,7 @@
 
 Outline of differential equations. Similar to the popular book series with the same name. In chapters 01, 03, 04, and 05, Python is used for calculations and matplotlib for plotting. In subsequent chapters, (until Chapter 31), Wolfram Alpha (and also Maxima) are used for calculations, and matplotlib for plotting. Chapter 31 is a 16-part tour of Partial Differential Equations, in which both Python and Octave are used.
 
-Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can now render Jupiter notebooks, but does not show the embedded graphics. The PDFs do show the graphics, (and the Bookerly and Monaco fonts), and may be preferable for online viewing (though code may be obstructed). Remarkably, on download the Jupyter notebooks display perfectly, a verification of the integrity of the Jupyter format.
+Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can now render Jupiter notebooks, but shows only generated (not embedded) graphics. The PDFs do show the graphics, (and the Bookerly and Monaco fonts), and may be preferable for online viewing (though code may be obstructed). Remarkably, on download the Jupyter notebooks display perfectly, a verification of the integrity of the Jupyter format.
 
 In case you do not want to take the trouble to set up Jupyter on your system, there are many available viewers, including add-ons for Firefox and Chrome.
 
