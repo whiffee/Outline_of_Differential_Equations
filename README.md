@@ -52,7 +52,7 @@ Chapter31-14 Pseudo-Spectral Method
 Chapter31-15 Reduced Finite Element Method  
 Chapter31-16 PDE Solvers Using Neural Network Methods  
 
-The Custom folder, in Windows, can be put at a position like C:\Users\gary\ .jupyter. The custom.css file needs to reside in the Custom folder. If the Monaco font is loaded into the system font list it should show up as the notebook code font. It makes a good code font (see PDFs). The nice thing about Monaco is that it has an intrinsically large face size, which make the code font about the same size as the markdown font, instead of being very small-looking. As for the markdown cells, the Bookerly font should be in the system to render them as designed.
+The Custom folder, in Windows, can be put at a position like C:\Users\gary\ .jupyter. The custom.css file needs to reside in the Custom folder. If the Monaco font is loaded into the system font list it should show up as the notebook code font. It makes a good code font (see PDFs). The nice thing about Monaco is that it has an intrinsically large face size, which make the code font about the same size as the markdown font, instead of being very small-looking. As for the markdown cells, the Bookerly font should be in the system font list in order to render them as designed.
 
 
 
