@@ -4,7 +4,7 @@ Outline of differential equations. Similar to the popular book series with the s
 
 Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can now render Jupiter notebooks, but shows only generated (not embedded) graphics. The PDFs do show the graphics, (and the Bookerly and Monaco fonts), and may be preferable for online viewing. Remarkably, on download the Jupyter notebooks display perfectly, a verification of the integrity of the Jupyter format.
 
-In case you do not want to take the trouble to set up Jupyter on your system, there are many available viewers, including add-ons for Firefox and Chrome. And if it is desired to view the notebooks just as shown in the .pdfs, see the bottom of this file for details.
+In case you do not want to take the trouble to set up Jupyter on your system, there are many available viewers, including add-ons for Firefox and Chrome. And if it is desired to view the notebooks just as shown in the PDFs, see the bottom of this file for details.
 
 Contents:  
 Chapter01 Basic Concepts  
