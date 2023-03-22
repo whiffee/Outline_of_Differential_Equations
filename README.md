@@ -1,3 +1,3 @@
-If Github is unable to render the .pdf file, go to this address:   
-
-http://www.keepandshare.com/doc5/view.php?id=32471&da=y
+If the message 'cannot render rich display' is shown when launching a PDF, then:  
+1. Try launching the PDF _**test.pdf**_
+2. If successful, then return to the desired PDF and try launching it again.
