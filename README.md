@@ -1,3 +1,3 @@
-If Github is unable to render the .pdf, then go to the following address:  
-
-https://www.keepandshare.com/doc5/32470/chapter-31-11-parabolic-case-explicit-method-pdf-5-1-meg?da=y
+If the message 'cannot render rich display' is shown when launching a PDF, then:  
+1. Try launching the PDF _**test.pdf**_
+2. If successful, then return to the desired PDF and try launching it again.
