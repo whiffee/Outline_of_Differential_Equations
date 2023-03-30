@@ -1,21 +1,3 @@
-<div style="background: #DDE2FF;
-            font-family: Bookerly;
-            font-size: 16px; 
-            font-weight: 100;
-            padding: 20px 5px 0px 5px; 
-            border: 10px solid #DDE2FF; 
-            margin-left: 1px;
-            margin-right: 1px;"
-          
- <font color='blue'>**Trefethen p28 to p40**.
- 
- This notebook showcases the third fifteen problems in Trefethen's classic book _Spectral Methods in MATLAB_. These problems have been ported to Python by Orlando Camargo Rodríguez.  <br><br>
- 
- 
-
-    
-
-
 # Outline_of_Differential_Equations
 
 Outline of differential equations. Similar to the popular book series with the same name. In chapters 01, 03, 04, and 05, Python is used for calculations and matplotlib for plotting. In subsequent chapters, (until Chapter 31), Wolfram Alpha (and also Maxima) are used for calculations, and matplotlib for plotting. Chapter 31 is a 16-part tour of Partial Differential Equations, in which both Python and Octave are used.
@@ -72,8 +54,6 @@ Chapter31-16 PDE Solvers Using Neural Network Methods
 
 The Custom folder, in Windows, can be put at a position like C:\Users\gary\ .jupyter. The custom.css file needs to reside in the Custom folder. If the Monaco font is loaded into the system font list it should show up as the notebook code font. It makes a good code font (see PDFs). The nice thing about Monaco is that it has an intrinsically large face size, which make the code font about the same size as the markdown font, instead of being very small-looking. As for the markdown cells, the Bookerly font should be in the system font list in order to render them as designed.
 
-</font>
-</div>
 
 
 
