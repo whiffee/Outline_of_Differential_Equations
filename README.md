@@ -2,9 +2,7 @@
 
 Outline of differential equations. Similar to the popular book series with the same name. In chapters 01, 03, 04, and 05, Python is used for calculations and matplotlib for plotting. In subsequent chapters, (until Chapter 31), Wolfram Alpha (and also Maxima) are used for calculations, and matplotlib for plotting. Chapter 31 is a 16-part tour of Partial Differential Equations, in which both Python and Octave are used.
 
-Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can now render Jupiter notebooks, but shows only generated (not embedded) graphics. The PDFs do show the graphics, (and the Bookerly and Monaco fonts), and may be preferable for online viewing. Remarkably, on download the Jupyter notebooks display perfectly, a verification of the integrity of the Jupyter format.
-
-In case you do not want to take the trouble to set up Jupyter on your system, there are many available viewers, including add-ons for Firefox and Chrome. And if it is desired to view the notebooks just as shown in the PDFs, see the bottom of this file for details.
+Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can now render Jupiter notebooks, but the default *code* font may be of poor quality. In Firefox this can be fixed in **settings** by setting all three font family choices (in the advanced menu) to the same desired font (such as Monaco), while allowing the "allow pages to choose ..." checkbox  to  remain checked. If using Chrome, a congenial solution can be obtained by using the browser extension "Github Refined".
 
 Contents:  
 Chapter01 Basic Concepts  
@@ -52,7 +50,7 @@ Chapter31-14 Pseudo-Spectral Method
 Chapter31-15 Reduced Finite Element Method  
 Chapter31-16 PDE Solvers Using Neural Network Methods  
 
-The Custom folder, in Windows, can be put at a position like C:\Users\gary\ .jupyter. The custom.css file needs to reside in the Custom folder. If the Monaco font is loaded into the system font list it should show up as the notebook code font. It makes a good code font (see PDFs). The nice thing about Monaco is that it has an intrinsically large face size, which make the code font about the same size as the markdown font, instead of being very small-looking. As for the markdown cells, the Bookerly font should be in the system font list in order to render them as designed.
+
 
 
 
