@@ -4,6 +4,8 @@ Outline of differential equations. Similar to the popular book series with the s
 
 Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can now render Jupiter notebooks, but the default *code* font may be of poor quality. In Firefox this can be fixed in **settings** by setting all three font family choices (in the advanced menu) to the same desired font (such as Monaco), while allowing the "allow pages to choose ..." checkbox  to  remain checked. If using Chrome, a congenial solution can be obtained by using the browser extension "Github Refined".
 
+The markdown cells were created with the Bookerly font, which for the purpose of fidelity should be on the system.
+
 Contents:  
 Chapter01 Basic Concepts  
 Chapter03 Classifications of 1st Order  
