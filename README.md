@@ -2,7 +2,9 @@
 
 Outline of differential equations. Similar to the popular book series with the same name. In chapters 01, 03, 04, and 05, Python is used for calculations and matplotlib for plotting. In subsequent chapters, (until Chapter 31), Wolfram Alpha (and also Maxima) are used for calculations, and matplotlib for plotting. Chapter 31 is a 16-part tour of Partial Differential Equations, in which both Python and Octave are used.
 
-Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can now render Jupiter notebooks, but the default *code* font may be of poor quality. In Firefox this can be fixed in **settings** by setting all three font family choices (in the advanced menu) to the same desired font (such as Monaco), while allowing the "allow pages to choose ..." checkbox  to  remain checked. If using Chrome, a congenial solution can be obtained by using the browser extension "Github Refined".
+Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can render Jupiter notebooks, and the rendering gets better all the time. You can tell when the Python computation time gets lengthy, because the notebook cells show spastic stuttering.
+
+The markdown cells have static appearance, but in the code cells the prevailing font may not be what is preferred. In Firefox this can be fixed in **settings** by setting all three font family choices (in the advanced menu) to the same desired font (such as Monaco), while allowing the "allow pages to choose ..." checkbox  to  remain checked. If using Chromium, look at Settings > Appearance > Customize fonts > Fixed width, and choose the desired Code font to occupy this setting.
 
 The markdown cells were created with the Bookerly font, which for the purpose of fidelity should be on the system.
 
