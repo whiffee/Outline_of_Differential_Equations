@@ -10,6 +10,8 @@ The above steps also set the fonts to their original face in the Midori browser.
 
 The above steps also set the fonts to their original face in the Chromium browser. _(Verified in ungoogled-chromium_131.0.6778.139-1.AppImage.)_
 
+The above steps also set the fonts to their original face in the Opera One browser. _(Verified in version 113.0 as Opera-x86-64.AppImage)_
+
 Contents:  
 Chapter01 Basic Concepts  
 Chapter03 Classifications of 1st Order  
