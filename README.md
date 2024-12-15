@@ -6,8 +6,6 @@ Notebook versions in both classic Jupyter notebook and PDF formats are available
 
 In the code cells the existing font may **not** be the one desired. In Firefox this can be fixed in **settings** by setting the **Monospace** font choice to the desired font (such as Monaco). For accuracy in rendering the markdown cells, the Bookerly font should likewise be chosen as the **serif** font. To effect these choices, the "allow pages to choose ..." checkbox needs to be **unchecked**. _(Verified in Firefox 115.)_
 
-The markdown cells were created with the Bookerly font, which for the purpose of fidelity should be on the system.
-
 Contents:  
 Chapter01 Basic Concepts  
 Chapter03 Classifications of 1st Order  
