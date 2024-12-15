@@ -4,7 +4,7 @@ Outline of differential equations. Similar to the popular book series with the s
 
 Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can render Jupiter notebooks, and the rendering gets better all the time. You can tell when the Python computation time gets lengthy, because the notebook cells show spastic stuttering.
 
-The markdown cells have static appearance, but in the code cells the prevailing font may not be what is preferred. In Firefox this can be fixed in **settings** by setting all three font family choices (in the advanced menu) to the same desired font (such as Monaco), while allowing the "allow pages to choose ..." checkbox  to  remain checked. If using Chromium, look at Settings > Appearance > Customize fonts > Fixed width, and choose the desired Code font to occupy this setting.
+The markdown cells have static appearance, but in the code cells the prevailing font may not be what is preferred. In Firefox this can be fixed in **settings** by setting the Monospace font choice to the desired font (such as Monaco), while unchecking the "allow pages to choose ..." checkbox. 
 
 The markdown cells were created with the Bookerly font, which for the purpose of fidelity should be on the system.
 
