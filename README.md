@@ -12,7 +12,7 @@ The above steps also set the fonts to their original face in the Chromium browse
 
 The above steps also set the fonts to their original face in the Opera One browser. _(Verified in version 113.0 as Opera-x86-64.AppImage)_
 
-The above steps also set the fonts to their original face in the Brave browser. _(Verified in Brave-stable-v1.73.101-x86[underbar]64.Appimage)_
+The above steps also set the fonts to their original face in the Brave browser. _(Verified in Brave-stable-v1.73.101-x86\_\64.Appimage)_
 
 
 Contents:  
