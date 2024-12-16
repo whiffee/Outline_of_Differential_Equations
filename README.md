@@ -6,13 +6,13 @@ Notebook versions in both classic Jupyter notebook and PDF formats are available
 
 In the code cells the existing font may **not** be the one desired. In Firefox this can be fixed in **settings** by setting the **Monospace** font choice to the desired font (such as Monaco). For accuracy in rendering the markdown cells, the Bookerly font should likewise be chosen as the **serif** font. To effect these choices, the "allow pages to choose ..." checkbox needs to be **unchecked**. _(Verified in Firefox 115.)_
 
-The above steps also set the fonts to their original face in the Midori browser. _(Verified in Midori 11.4.3. AppImage)_
+The above steps also set the fonts to their designed face in the Midori browser. _(Verified in Midori 11.4.3. AppImage)_
 
-The above steps also set the fonts to their original face in the Chromium browser. _(Verified in ungoogled-chromium_131.0.6778.139-1.AppImage.)_
+The above steps also set the fonts to their designed face in the Chromium browser. _(Verified in ungoogled-chromium_131.0.6778.139-1.AppImage.)_
 
-The above steps also set the fonts to their original face in the Opera One browser. _(Verified in version 113.0 as Opera-x86-64.AppImage)_
+The above steps also set the fonts to their designed face in the Opera One browser. _(Verified in version 113.0 as Opera-x86-64.AppImage)_
 
-The above steps also set the fonts to their original face in the Brave browser. _(Verified in Brave-stable-v1.73.101-x86\_64.Appimage)_
+The above steps also set the fonts to their designed face in the Brave browser. _(Verified in Brave-stable-v1.73.101-x86\_64.Appimage)_
 
 
 Contents:  
