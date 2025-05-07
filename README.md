@@ -8,6 +8,8 @@ In the code cells the existing font may **not** be the one desired. In Firefox t
 
 The above steps also set the fonts to their designed face in the Midori browser. _(Verified in Midori 11.4.3. AppImage)_
 
+The above steps also set the fonts to their designed face in the Chrome browser. _(Verified in Chrome 135)_
+
 The above steps also set the fonts to their designed face in the Chromium browser. _(Verified in ungoogled-chromium_131.0.6778.139-1.AppImage.)_
 
 The above steps also set the fonts to their designed face in the Opera One browser. _(Verified in version 113.0 as Opera-x86-64.AppImage)_
