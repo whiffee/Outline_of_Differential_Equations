@@ -4,7 +4,7 @@ Outline of differential equations. Similar to the popular book series with the s
 
 Notebook versions in both classic Jupyter notebook and PDF formats are available.  Github can render Jupiter notebooks, and the rendering gets better all the time. You can tell when the Python computation time gets lengthy, because the notebook cells show spastic stuttering, or else Github bails without finishing the current cell. (Download or PDF view would then be logical.)
 
-In the code cells the existing font may **not** be the one desired. In Firefox this can be fixed in **settings** by setting the **Monospace** font choice to the desired font (such as Monaco). For accuracy in rendering the markdown cells, the Bookerly font should likewise be chosen as the **serif** font. To effect these choices, the "allow pages to choose ..." checkbox needs to be **unchecked**. _(Verified in Firefox 115.)_
+In the code cells the existing font may **not** be the one desired. In Firefox this can be fixed in **settings** by setting the **Monospace** font choice to the desired font (such as Monaco). For accuracy in rendering the markdown cells, the Bookerly font should likewise be chosen as the **serif** font. To effect these choices, the "allow pages to choose ..." checkbox needs to be **unchecked**. _(Verified in Firefox 134.)_
 
 The above steps also set the fonts to their designed face in the Midori browser. _(Verified in Midori 11.4.3. AppImage)_
 
